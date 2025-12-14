@@ -29,8 +29,10 @@ The dataset used for this project is available on Google Sheets:
 4. **Dashboard Creation:** Built an interactive dashboard using charts, tables, and conditional formatting in Google Sheets.  
 5. **Analysis & Insights:** Interpreted trends across video categories, dates, and audience engagement metrics.
 
-**Dashboard Preview:**  
-![YouTube Channel Performance Dashboard](./39347fe4-849c-4da6-8d83-ebcb3a7b508b.png)
+**Dashboard :**  
+<img width="763" height="628" alt="Screenshot 2025-12-14 212924" src="https://github.com/user-attachments/assets/e900d9a2-6c06-4f46-aacc-6ceebbb5d113" />
+
+
 
 
 
