@@ -22,4 +22,12 @@ This project analyzes YouTube channel performance using an interactive dashboard
 The dataset used for this project is available on Google Sheets:  
 [View Dataset](https://docs.google.com/spreadsheets/d/1xaUkF_YRcJE2Kq2EyLpfOcFuzq-uxe3Mma2o6DzYSm0/edit?usp=sharing)
 
+**Process / Steps Followed:**  
+1. **Data Collection:** Collected YouTube channel performance data and stored it in Google Sheets.  
+2. **Data Cleaning:** Removed duplicates, handled missing values, and formatted data for analysis.  
+3. **KPI Calculation:** Calculated total views, likes, comments, shares, and identified top-performing videos.  
+4. **Dashboard Creation:** Built an interactive dashboard using charts, tables, and conditional formatting in Google Sheets.  
+5. **Analysis & Insights:** Interpreted trends across video categories, dates, and audience engagement metrics.  
+
+
 
