@@ -16,7 +16,6 @@ This project analyzes YouTube channel performance using an interactive dashboard
 - Total Likes  
 - Total Comments  
 - Total Shares  
-- Top Performing Video
 
 **Dataset Used/Dashboard Link:**  
 The dataset used for this project is available on Google Sheets:  
@@ -31,6 +30,18 @@ The dataset used for this project is available on Google Sheets:
 
 **Dashboard :**  
 <img width="763" height="628" alt="Screenshot 2025-12-14 212924" src="https://github.com/user-attachments/assets/e900d9a2-6c06-4f46-aacc-6ceebbb5d113" />
+
+## Project Insights
+- Videos in the **Travel** category received the highest likes, indicating strong audience interest.  
+- Engagement metrics such as likes, comments, and shares correlate with views, helping identify top-performing content.  
+- Audience distribution across countries shows concentrated viewership in key regions like India and the USA.  
+- Daily view trends reveal which days have higher engagement, useful for scheduling uploads.  
+
+## Final Conclusion
+- The dashboard provides a **clear, interactive view** of YouTube channel performance.  
+- KPIs and charts help quickly identify popular content and audience preferences.  
+- Insights can guide content strategy, optimize posting schedules, and improve overall engagement.  
+- Using Google Sheets for dashboard creation offers a **cost-effective and easily shareable solution** for ongoing channel analysis.
 
 
 
