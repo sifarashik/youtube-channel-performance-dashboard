@@ -1,4 +1,4 @@
-##YouTube Channel Performance Dashboard using Google Sheets
+YouTube Channel Performance Dashboard using Google Sheets
 
 
 Project Overview:
