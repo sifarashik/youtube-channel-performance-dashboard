@@ -27,7 +27,10 @@ The dataset used for this project is available on Google Sheets:
 2. **Data Cleaning:** Removed duplicates, handled missing values, and formatted data for analysis.  
 3. **KPI Calculation:** Calculated total views, likes, comments, shares, and identified top-performing videos.  
 4. **Dashboard Creation:** Built an interactive dashboard using charts, tables, and conditional formatting in Google Sheets.  
-5. **Analysis & Insights:** Interpreted trends across video categories, dates, and audience engagement metrics.  
+5. **Analysis & Insights:** Interpreted trends across video categories, dates, and audience engagement metrics.
+
+**Dashboard Preview:**  
+![YouTube Channel Performance Dashboard](./39347fe4-849c-4da6-8d83-ebcb3a7b508b.png)
 
 
 
