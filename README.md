@@ -1,2 +1,4 @@
-# youtube-channel-performance-dashboard
-An interactive YouTube Channel Performance Dashboard built using Google Sheets to analyze views, likes, comments, and shares. It uses KPIs, charts, and filters to visualize trends across categories, dates, and countries, helping identify audience engagement and top-performing content.
+📌 Project Title
+YouTube Channel Performance Dashboard using Google Sheets
+📊 Project Overview
+This project analyzes YouTube channel performance using an interactive dashboard built in Google Sheets. It visualizes key metrics such as views, likes, comments, and shares through KPIs, charts, and filters to identify trends, audience engagement, and top-performing content.
